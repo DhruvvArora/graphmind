@@ -1,4 +1,5 @@
-# Medical Chatbot with LangGraph
+# Lang Mind
+## Medical Chatbot with LangGraph
 
 This project is a medical chatbot designed to assist users with various inquiries, including greeting, farewell, medicine, hospital, and department-related questions. The chatbot leverages **LangGraph** to manage agent workflows and **OpenAI** for generating responses. It routes user queries to specialized agents depending on the intent, using a hierarchical setup with an operator agent to guide the conversation flow.
 
