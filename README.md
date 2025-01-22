@@ -21,7 +21,7 @@ This project is a medical chatbot designed to assist users with various inquirie
 
 ## Installation Steps
 1. **Install the required packages:**
-   - `pip install -U langchain langchain_openai langsmith pandas langchain_experimental matplotlib langgraph langchain_core`
+   - `pip install -U langgraph langchain langchain_openai langsmith python-dotenv`
 
 2. **Set your OpenAI API Key:**
    - Create a .evn file.
